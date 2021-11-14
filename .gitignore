@@ -1,3 +1,6 @@
 __pycache__/
 *.pptx
 .ipynb_checkpoints/
+Pipfile
+*.lock
+lala.py
